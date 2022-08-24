@@ -7,4 +7,4 @@ Marcel Nelson's Portfolio of Projects
 - Utilizes Okteto's services to host and maintain a live 24/7 website.
 - Employs Postgresql and DBeaver to store and manage data from Kaggle.com
 - Graphs visualized and formatted using Jinja2, Plotly, and CSS.
-
+- Access at https://fastapi-marcelnelson.cloud.okteto.net/
