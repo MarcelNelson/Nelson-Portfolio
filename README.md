@@ -1,7 +1,7 @@
 # Nelson-Portfolio
 Marcel Nelson's Portfolio of Projects
 
-#Data Science Industry Comparison Charts: Project Overview
+# Data Science Industry Comparison Charts: Project Overview
 #Created a simple website to visualize graphs made with Global Data Science Salary data from Kaggle
 #Purpose of the project is to show Data Scientists the average salaries in their field based on experience level, company size, job title and other metrics.
 #Utilizes Okteto's services to host and maintain a live 24/7 website.
